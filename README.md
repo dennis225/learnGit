@@ -1,2 +1,0 @@
-# learnGit
-git tutorial
